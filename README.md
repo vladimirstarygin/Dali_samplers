@@ -15,4 +15,5 @@ TODO:
 - [ ] Add support for pip
 - [ ] Add documentation about all samplers
 - [ ] Add more sample techniques 
+- [ ] Add multi-gpu support
 
